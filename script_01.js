@@ -12,10 +12,10 @@
 
 /*** Funktion mit Array als Parameter */
 // mögliche Tests:
-output(getSentence(["Ich","bin","Max"],"S"));
-ausgabe(getSentence(["Bist","du","Max"],"Q"));
+// output(getSentence(["Ich","bin","Max"],"S"));
+// output(getSentence(["Bist","du","Max"],"Q"));
 
-getSentence(arr,op){
+function getSentence(arr,op){
 	
 	// ....
 	
